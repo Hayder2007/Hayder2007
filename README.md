@@ -70,11 +70,4 @@ My crypto journey is built on analytical precision and adaptable execution, comb
 
 ---
 
-## 🏆 Badges
-
-![GitHub followers](https://img.shields.io/github/followers/Hayder2007?style=social)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hayder2007&show_icons=true&theme=radical)
-
----
-
 > "Code is poetry. Let's create something beautiful together."
