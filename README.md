@@ -64,7 +64,7 @@ My crypto journey is built on analytical precision and adaptable execution, comb
 
 - **Email:** haydersadik2007@gmail.com
 - **X (Twitter):** [@hayder_sadik](https://x.com/hayder_sadik)
-- **Telegram:** [@musl_im](https://t.me/musl_im)
+- **Telegram:** [@Hayderx0](https://t.me/hayderx0)
 - **Portfolio:** [hayder.online](https://www.hayder.online)
 - **GitHub:** [Hayder2007](https://github.com/Hayder2007)
 
