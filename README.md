@@ -58,7 +58,7 @@ I'm versatile across multiple streams i Create,trade,build.
 ## 📫 Connect with Me
 
 - **Email:** haydersadik2007@gmail.com
-- **X (Twitter):** [@hayder_sadik](https://x.com/0xHayder)
+- **X (Twitter):** [@0xhayder](https://x.com/0xHayder)
 - **Telegram:** [@Hayderx0](https://t.me/hayderx0)
 - **Portfolio:** [hayder.online](https://www.hayder.online)
 - **GitHub:** [Hayder2007](https://github.com/Hayder2007)
