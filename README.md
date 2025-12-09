@@ -1,31 +1,27 @@
 <h1 align="center">Hayder Sadik</h1>
-<p align="center"><em>Building the future of technology and digital markets.</em></p>
+<p align="center"><em>Trading, Creating, building</em></p>
 
 ---
 
-## 🚀 Innovator & Executor
-
-A versatile professional bridging technology and business, delivering high-impact solutions through code, strategic insight, and market expertise. Turning complex ideas into scalable reality and consistent profit.
+Founder @Signex & @ChainFlow_xyz | Crypto Markets: FA/TA/MA | Web3 Builder
 
 ---
 
 ## 👋 About Me
 
-I'm a hands-on doer who thrives at the intersection of technology and business. Whether I'm writing code, managing complex projects, analyzing crypto markets, or streamlining business operations, I bring a methodical approach and a drive for results.
-
-My strength lies in adaptability and effectiveness rather than narrow specialization. I quickly learn new domains, identify what matters most, and execute with precision. From building scalable applications to navigating volatile markets, I focus on fundamentals, data-driven decisions, and measurable outcomes.
+I’m a crypto trader and Web3 builder. I dive deep into market fundamentals, technicals, and macro trends and share my insights on my X(Twitter) page. Beyond trading, I build projects and contribute to the Web3 ecosystem. Always open for collaboration and meaningful discussion.
 
 ---
 
 ## 🛠️ Skills & Contributions
 
 ### Technology & Development
-- Front-End: JavaScript / TypeScript
-- API & Web3 Integration
+- Front-End Development
+- Web3 Development
 
 ### Trading & Market Analysis
 - Technical & Fundamental Analysis
-- Strategy & Portfolio Design
+- Market Research
 
 ### Project & Program Management
 - Team Coordination & Resource Planning
@@ -35,18 +31,17 @@ My strength lies in adaptability and effectiveness rather than narrow specializa
 - Strategic Partnerships & Process Optimization
 - Community Building & Brand Advocacy
 
-I'm a versatile operator who bridges gaps and delivers results—whether it's building tools, managing programs, or contributing with both technical depth and business acumen.
+I'm versatile across multiple streams i Create,trade,build.
 
 ---
 
 ## 🪙 Crypto Experience
 
-- **Profitable Trading:** 1.5+ years of consistent profitability through disciplined strategy execution and risk management
-- **Analysis:** Deep market research using on-chain metrics, technical indicators, and project fundamentals
+- **Profitable Trading:** 2+ years of consistent profitability through disciplined strategy execution and risk management
+- **Analysis:** Deep market research combining on-chain metrics, technical, fundamental and Macro analysis.
 - **Blockchain & Web3:** Hands-on integration of smart contracts and decentralized applications
 - **DeFi Strategies:** Expertise in decentralized finance protocols, liquidity provision, and yield optimization
 
-My crypto journey is built on analytical precision and adaptable execution, combining technical expertise and market insight to deliver results.
 
 ---
 
