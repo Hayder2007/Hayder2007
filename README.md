@@ -54,16 +54,16 @@ My crypto journey is built on analytical precision and adaptable execution, comb
 
 | Project                   | Description                                                                              | Link                                      |
 |---------------------------|------------------------------------------------------------------------------------------|-------------------------------------------|
+| **Signex**                | Trustless P2P Crypto & NFT Exchange. Swap assets directly via smart-contract escrow with no middleman risks. | [Signex.site](https://Signex.site) |
 | **ChainFlow**             | Platform to track personal growth and manage decentralized workstreams — all onchain.    | [chainflow.store](https://chainflow.store) |
-| **Proof of Discipline**   | Web3 staking project that gamifies discipline and rewards users for consistency.         | [podiscipline.vercel.app](https://podiscipline.vercel.app) |
-| **Portfolio Website**     | My personal site, resume, and blog.                                                     | [hayder.online](https://www.hayder.online) |
+| **Portfolio Website**     | My personal site, resume, and blog.                                                      | [hayder.online](https://www.hayder.online) |
 
 ---
 
 ## 📫 Connect with Me
 
 - **Email:** haydersadik2007@gmail.com
-- **X (Twitter):** [@hayder_sadik](https://x.com/hayder_sadik)
+- **X (Twitter):** [@hayder_sadik](https://x.com/0xHayder)
 - **Telegram:** [@Hayderx0](https://t.me/hayderx0)
 - **Portfolio:** [hayder.online](https://www.hayder.online)
 - **GitHub:** [Hayder2007](https://github.com/Hayder2007)
